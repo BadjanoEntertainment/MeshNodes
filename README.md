@@ -1,2 +1,2 @@
 # MeshNodes
-Isseu tracking for Mesh Nodes asset
+Issue tracking for Mesh Nodes asset
